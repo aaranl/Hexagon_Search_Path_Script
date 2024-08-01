@@ -1,7 +1,5 @@
 # PC-DMIS Search Paths Management Script
 
-## Purpose
-
 This script is designed to manage search paths and tool data files for PC-DMIS installations. It provides functionalities to:
 
 1. Delete specific `.dat` files (`Tool.dat`) from designated directories.
