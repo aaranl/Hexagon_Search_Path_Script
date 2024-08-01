@@ -24,7 +24,7 @@ This script is designed to manage search paths and tool data files for PC-DMIS i
 
 3. **Run the script:**
    ```sh
-   python script_name.py
+   python search_path_restore.py
    ```
 
 ### Options
